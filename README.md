@@ -1,4 +1,4 @@
-# Puzzly
+# Gridy - Puzzle
 This is a simple puzzle game of 16 pieces. The user can create a puzzle using a picture from her/his camera or photo library. The user can share the completed puzzle picture at the end (email, social media, etc). The application counts the number of moves used to solve the puzzle, 16 moves being a perfect score. There is a "hint" feature to help the user solve the puzzle.
 
 # Steps:
